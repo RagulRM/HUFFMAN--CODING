@@ -82,7 +82,7 @@ for (char, frequency) in freq:
 ### Print the characters and its huffmancode
 <br>
 
-![image](https://github.com/ShanmathiShanmugam/HUFFMAN--CODING/assets/121243595/d5e4c851-5607-409b-bcff-d33bb36f8afd)
+![image](https://github.com/RagulRM/HUFFMAN--CODING/assets/121609342/75d1011f-5356-4db7-8c28-b5ddde4035da)
 
 <br>
 
