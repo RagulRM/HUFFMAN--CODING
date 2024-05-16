@@ -20,7 +20,7 @@ Print the Huffman code for the string.
 
 ### Get the input String
 ``` Python
-string = 'Shanmathi'
+string = 'Ragul'
 ```
 ### Create tree nodes
 ```python
